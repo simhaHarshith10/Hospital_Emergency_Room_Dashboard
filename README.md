@@ -1,3 +1,4 @@
+<img width="1817" height="751" alt="dashboardHospital_emergencyRoom" src="https://github.com/user-attachments/assets/0654ee0a-b1ca-464e-abc7-d17200c785a7" />
 🏥 Hospital Emergency Room Dashboard
 
 Monthly Performance Report | Data Visualization Project
@@ -10,48 +11,63 @@ The dashboard includes the following key components:
 
 1. Total Patients
 
-464 patients visited the ER in the selected month.
+   464 patients visited the ER in the selected month.
 
 2. Average Wait Time
 
-Average wait time recorded: 35.19 minutes
+   Average wait time recorded: 35.19 minutes
 
 3. Patient Satisfaction Score
 
-Rated at 5.09 on the satisfaction scale.
+   Rated at 5.09 on the satisfaction scale.
 
 4. Patient Attend Status
 
-58% attended on time
+   58% attended on time
 
-42% were delayed
+   42% were delayed
 
 5. Gender-wise Analysis
 
-49% female, 51% male
+    49% female, 51% male
 
 6. Admission Status
-Status	Patients	Percentage
-Not Admitted	233	50%
-Admitted	231	50%
-7. Age Group Distribution
+    Status	Patients	Percentage
+    Not Admitted	233	50%
+    Admitted	231	50%
+   
+8. Age Group Distribution
 
-Covers 0–79 age range with counts shown for each category.
+    Covers 0–79 age range with counts shown for each category.
 
-8. Patient Referral by Department
+9. Patient Referral by Department
 
-Top referrals include:
+    Top referrals include:
 
-None – 252
+     None – 252
+  
+     General Practice – 91
+  
+     Orthopedics – 67
+  
+     Other departments include Physiotherapy, Gastroenterology, Cardiology, Neurology, and Renal.
 
-General Practice – 91
+10. Monthly Selection Panel
 
-Orthopedics – 67
+    Selectable months: Apr – Mar
+    
+    Year toggle for 2023 and 2024
 
-Other departments include Physiotherapy, Gastroenterology, Cardiology, Neurology, and Renal.
+🎯 Project Purpose
 
-9. Monthly Selection Panel
-
-Selectable months: Apr – Mar
-
-Year toggle for 2023 and 2024
+  This dashboard is designed to:
+    
+  Evaluate monthly ER performance
+    
+  Identify patient demographics
+    
+  Analyze departmental referrals
+    
+  Improve wait times and patient satisfaction
+    
+  Support administrative decision-making
